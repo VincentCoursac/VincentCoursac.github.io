@@ -4,7 +4,7 @@ permalink: /about/
 title: About Me
 author_profile: true
 header:
-  overlay_image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/covers/about.jpg
 ---
 
 Hello!
