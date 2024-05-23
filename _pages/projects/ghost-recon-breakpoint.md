@@ -34,7 +34,13 @@ This internship was a fantastic opportunity for me to dive into the video game i
 ## Responsibilities
 
 ### Network programming
+- Automatic real-time test scenarios to test replication, change of network object's ownership and client migration
+- Network health test system (ping, latency, packet loss, ...)
+- Stress test system for the "pvp server"
 
 ### Online services programming
+- Adding remote logs and setup of a remote dashboard
+- Adding kill switch for some network features (network health for example) piloted by the remote dashboard
 
 ### Debug
+- Various small bug fixes and small improvements on the network engine
