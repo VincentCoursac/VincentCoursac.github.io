@@ -13,7 +13,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'grid-projects' %}
 <div class="entries-{{ entries_layout }}">
-{% for page in pages %}
+{% for page in pages reversed %}
   {% if page.identifier == 'project' %}
     {% include project-single-page.html type=entries_layout %}
   {% endif %}

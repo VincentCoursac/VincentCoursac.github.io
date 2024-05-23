@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/skull-and-bones
-title: "Ghost Recon Breakpoint"
+title: "Skull & Bones"
 excerpt: "Lorem ipsum"
 identifier: project
 order: 3

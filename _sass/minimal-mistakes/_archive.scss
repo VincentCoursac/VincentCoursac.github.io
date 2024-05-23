@@ -237,6 +237,13 @@
 .entries-grid-projects
 {
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  .grid-projects__item
+  {
+    max-width: 400px;
+  }
 }
 
 
