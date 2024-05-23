@@ -7,6 +7,7 @@ order: 1
 website: https://www.ubisoft.com/fr-fr/game/ghost-recon/breakpoint
 header:
     teaser: https://cdn.cloudflare.steamstatic.com/steam/apps/2231380/capsule_616x353.jpg?t=1697654010
+    overlay_image: /assets/images/covers/breakpoint.jpg
 sidebar:
   - title: "Role"
     text: "Network Programmer (Internship)"

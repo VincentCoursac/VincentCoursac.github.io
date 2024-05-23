@@ -7,6 +7,7 @@ order: 4
 website: https://yuzu.hr
 header:
     teaser: https://yuzu.hr/_ipx/w_1228/images/about/slide-1.webp
+    overlay_image: /assets/images/covers/yuzu.jpg
 sidebar:
   - title: "Role"
     text: "Chief Technical Officer"

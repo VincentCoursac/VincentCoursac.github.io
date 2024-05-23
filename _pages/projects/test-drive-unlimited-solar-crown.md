@@ -7,6 +7,7 @@ order: 2
 website: https://www.testdriveunlimited.com/fr-FR
 header:
     teaser: https://cdn.cloudflare.steamstatic.com/steam/apps/1249970/capsule_616x353.jpg?t=1709231434
+    overlay_image: /assets/images/covers/tdu.jpg
 sidebar:
   - title: "Role"
     text: "Gameplay Programmer / Network Programmer"
