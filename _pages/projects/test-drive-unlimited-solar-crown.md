@@ -21,4 +21,8 @@ sidebar:
     text: "PC - PS5 - Xbox Series - Amazon Luna"
 ---
 
-Lorem ipsum
+**Test Drive Unlimited Solar Crown** by Nacon is the third installment in the Test Drive Unlimited series, set on a 1:1 recreation of Hong Kong Island. The game features high-speed racing, car customization, and a luxurious lifestyle, allowing players to join rival factions and explore a detailed urban environment. It emphasizes freedom, social interactions, and competitive racing in a vibrant cityscape.
+{: .notice--info}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GZzhvjibrVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

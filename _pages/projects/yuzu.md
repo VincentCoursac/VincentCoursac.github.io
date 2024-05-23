@@ -19,4 +19,8 @@ sidebar:
     text: "Cloud Gaming (in-house solution)"
 ---
 
-Lorem ipsum
+**Yuzu** is a gamified HR assessment tool designed to evaluate candidates' soft skills through immersive video game scenarios. It combines neuroscience and game design to create realistic assessments that measure abilities such as communication, problem-solving, and empathy. This innovative platform helps reduce cognitive biases in hiring decisions and enhances the candidate experience, making it accessible and engaging for users. Yuzu's assessments are developed in collaboration with the **Lorraine Laboratory of Psychology and Neuroscience**, ensuring their scientific validity and reliability​
+{: .notice--info}
+
+
+<iframe width="560" height="315" src="https://yuzu.hr/videos/landing-video.webm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

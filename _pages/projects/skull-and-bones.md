@@ -21,4 +21,8 @@ sidebar:
     text: "PC - PS5 - Xbox Series"
 ---
 
-Lorem ipsum
+**Skull & Bones** by Ubisoft is a pirate-themed action-adventure game set in the Indian Ocean, where players take on the role of a pirate captain striving for infamy. The game features naval combat, ship customization, and multiplayer PvP battles, offering an immersive experience of piracy and plunder. Sail through treacherous waters, form alliances, and dominate the seas to become the ultimate pirate legend.
+{: .notice--info}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=OmDYo7MbQxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
