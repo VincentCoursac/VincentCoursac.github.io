@@ -56,6 +56,19 @@
 
   {% include scripts.html %}
 
+  <script>
+    window.axeptioSettings = {
+      clientId: "664f68be2cf6855f99191a80",
+      cookiesVersion: "portfolio-fr-EU",
+    };
+     
+    (function(d, s) {
+      var t = d.getElementsByTagName(s)[0], e = d.createElement(s);
+      e.async = true; e.src = "//static.axept.io/sdk.js";
+      t.parentNode.insertBefore(e, t);
+    })(document, "script");
+  </script>
+
 </body>
 
 </html>
