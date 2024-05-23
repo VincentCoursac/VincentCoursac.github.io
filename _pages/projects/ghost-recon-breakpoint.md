@@ -33,8 +33,8 @@ This internship was a fantastic opportunity for me to dive into the video game i
 
 ## Responsibilities
 
-#Network programming:
+### Network programming
 
-#Online services programming
+### Online services programming
 
-#Debug
+### Debug
