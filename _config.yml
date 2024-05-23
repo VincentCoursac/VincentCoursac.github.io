@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Vincent COURSAC"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Vincent COURSAC"
-description              : "Personal blog."
+subtitle                 : "Blog & Portfolio"
+name                     : "Blogfolio ✨"
+description              : "Game dev blog & portfolio"
 url                      : "https://vincentcoursac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
