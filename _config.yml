@@ -112,7 +112,6 @@ author:
   location         : "France"
   email            : "vincent.coursac@gmail.com"
   links:
-      url: "mailto:vincent.coursac@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/vincent-coursac/"
