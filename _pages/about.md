@@ -3,6 +3,8 @@ layout: about
 permalink: /about/
 title: About Me
 author_profile: true
+header:
+  overlay_image: /assets/images/teaser.jpg
 ---
 
 Hello!
