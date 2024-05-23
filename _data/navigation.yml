@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Posts"
-    url: /posts
+    url: "https://vincentcoursac.github.io/"
   - title: "CV"
     url : "https://vincentcoursac.github.io/assets/CV_COURSAC_Vincent.pdf"
   - title: "About"
