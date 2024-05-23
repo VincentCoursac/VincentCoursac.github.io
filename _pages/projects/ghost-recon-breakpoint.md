@@ -26,3 +26,15 @@ sidebar:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLWt9MQLVgU?si=gx0BHxIzelAqvoa3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I had the pleasure of working on this project as an intern in the **network team**. Our primary responsibility was to ensure that all necessary network functionalities (such as **replication and RPC**) were in place so the gameplay team could seamlessly integrate multiplayer features. Given that Ghost Recon Breakpoint is a vast open-world co-op game with PvP modes, our team of nearly ten people was dedicated to managing this crucial aspect.
+
+This internship was a fantastic opportunity for me to dive into the video game industry and enhance my knowledge of **C++** and **networking**.
+
+## Responsibilities
+
+#Network programming:
+
+#Online services programming
+
+#Debug
