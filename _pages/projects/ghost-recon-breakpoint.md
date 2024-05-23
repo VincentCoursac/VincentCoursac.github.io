@@ -21,4 +21,8 @@ sidebar:
     text: "PC - PS4 - Xbox One - Stadia"
 ---
 
-Lorem ipsum
+**Ghost Recon Breakpoint** by Ubisoft is an open-world tactical shooter set in the fictional archipelago of Auroa, where players assume the role of a Ghost operative stranded behind enemy lines. The game emphasizes survival, stealth, and strategic combat against a rogue faction of former Ghosts. With both solo and co-op modes, it offers a rich narrative and dynamic gameplay in diverse environments.
+{: .notice--info}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLWt9MQLVgU?si=gx0BHxIzelAqvoa3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
