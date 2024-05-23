@@ -15,7 +15,7 @@ layout: archive
 <div class="entries-{{ entries_layout }}">
 {% for page in pages %}
   {% if page.identifier == 'project' %}
-    {% include archive-single-page.html type=entries_layout %}
+    {% include project-single-page.html type=entries_layout %}
   {% endif %}
 {% endfor %}
 </div>
