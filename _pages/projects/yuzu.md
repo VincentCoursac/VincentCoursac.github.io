@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/yuzu
 title: "Yuzu"
-excerpt: "Lorem ipsum"
+excerpt: "Yuzu SAS - Co-Founder"
 identifier: project
 order: 4
 website: ""

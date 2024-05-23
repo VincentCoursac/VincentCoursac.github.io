@@ -243,6 +243,21 @@
   .grid-projects__item
   {
     max-width: 400px;
+
+    .archive__item-teaser
+    {
+      img
+      {
+        width: 500px;
+        height: 250px;
+        object-fit: cover;
+      }
+    }
+
+    .archive__item-title
+    {
+      margin-top:5px;
+    }
   }
 }
 

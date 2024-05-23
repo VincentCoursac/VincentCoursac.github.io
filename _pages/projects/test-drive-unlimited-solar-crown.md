@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/test-drive-unlimited-solar-crown
 title: "Test Drive Unlimited Ssolar Crown"
-excerpt: "Lorem ipsum"
+excerpt: "Kylotonn - Nacon"
 identifier: project
 order: 2
 website: ""

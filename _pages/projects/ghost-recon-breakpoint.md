@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/ghost-recon-breakpoint
 title: "Tom Clancy's Ghost Recon Breakpoint"
-excerpt: "Lorem ipsum"
+excerpt: "Ubisoft Paris - Ubisoft"
 identifier: project
 order: 1
 website: ""

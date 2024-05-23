@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/skull-and-bones
 title: "Skull & Bones"
-excerpt: "Lorem ipsum"
+excerpt: "Ubisoft Paris - Ubisoft"
 identifier: project
 order: 3
 website: ""
