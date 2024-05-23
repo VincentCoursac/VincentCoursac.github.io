@@ -234,7 +234,7 @@
   }
 }
 
-grid-projects__item {
+.grid-projects__item {
   margin-bottom: 2em;
 
   @include breakpoint($small) {
