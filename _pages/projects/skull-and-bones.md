@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/skull-and-bones
-title: "Skull & Bones"
+title: "Skull And Bones"
 excerpt: "Ubisoft Paris - Ubisoft"
 identifier: project
 order: 3

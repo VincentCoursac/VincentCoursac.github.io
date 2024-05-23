@@ -2,6 +2,8 @@
 main:
   - title: "Posts"
     url: /posts
+  - title: "CV"
+    url : "https://vincentcoursac.github.io/assets/CV_COURSAC_Vincent.pdf"
   - title: "About"
     url: /about
   # - title: "Sample Posts"

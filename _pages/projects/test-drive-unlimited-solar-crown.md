@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/test-drive-unlimited-solar-crown
-title: "Test Drive Unlimited Ssolar Crown"
+title: "Test Drive Unlimited Solar Crown"
 excerpt: "Kylotonn - Nacon"
 identifier: project
 order: 2
