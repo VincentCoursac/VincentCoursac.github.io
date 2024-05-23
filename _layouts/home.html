@@ -20,3 +20,24 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+
+
+
+<h3 class="archive__subtitle">Portfolio</h3>
+
+{% if paginator %}
+  {% assign pages = paginator.pages %}
+{% else %}
+  {% assign pages = site.pages | sort: "order" %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'grid-projects' %}
+<div class="entries-{{ entries_layout }}">
+{% for page in pages reversed %}
+  {% if page.identifier == 'project' %}
+    {% include project-single-page.html type=entries_layout %}
+  {% endif %}
+{% endfor %}
+</div>
+
+{% include paginator.html %}
