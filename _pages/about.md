@@ -3,6 +3,7 @@ layout: about
 permalink: /about/
 title: About Me
 author_profile: true
+comments: true
 header:
   overlay_image: /assets/images/covers/about.jpg
 ---
