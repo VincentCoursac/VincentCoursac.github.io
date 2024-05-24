@@ -67,18 +67,41 @@ To ensure the scientific validity of our scenarios, we collaborated with 2LPN (L
 Making an exhaustive list of all my responsibilities at Yuzu is going to prove impossible, as being in charge of the company's technical management implies a lot of things. But to give you an idea: 
 
 ### Developing our game
-
 #### Gameplay programming and architecture
-- Lorem ipsum
+- Making overall game architecture
+- 3C (first person controller, footsteps, ...)
+- Interaction system
+- Dialogue systems (NPC and "talkie walkie")
+- Quest/objectives system
+- Modular NPC backend and behavior (look at, animations, etc.)
+- Spline guide system to help player to find the target location
+- Modular scenario system, launching specific sequence of level based on recruiter needs and player progress
+- Soft skills assessment related gameplay features (mini games, ui, ...)
+- Game ui integration
+- Remote logs integrations and debug systems
+- CI/CD with Jenkins (allowing to send builds directly to AWS)
 
-#### Technical level design
-- Lorem ipsum
+#### Game/Narrative/Level/Technical design
+- Co-conception of assessment related scenarios in collaboration with 2LPN
+- Co-conception of game narrative topics (story, dialogues, quests, ...)
+- Integration of all these elements in the engine
+- In game cinematics
+- Sound design integrations
 
 ### Developing our web infrastructure
-- Lorem ipsum
+- Architecture and implementation of the SaaS API in PHP
+- MySQL database design
+- NodeJS real time API
+- Internal dashboard with Angular
+- Various slack integrations for internal purpose
+- DevOps
 
 ### Developing our cloud solution
-- Lorem ipsum
+- PixelStreaming custom front-end
+- C# game cloud instance manager
 
 ### Management and leadership
-- Lorem ipsum
+- Managing a team of artists and developers
+- Producing with JIRA
+- Relationship with external providers
+- Participation in external events (CES for example)
