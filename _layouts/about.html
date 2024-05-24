@@ -23,5 +23,6 @@ layout: archive
 {% include paginator.html %}
 
 {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+<h2>Comments</h2>
       {% include comments.html %}
 {% endif %}
