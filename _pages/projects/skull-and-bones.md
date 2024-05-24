@@ -34,4 +34,20 @@ As Skull & Bones was primarily developed by Ubisoft Singapore, the Paris studio 
 
 I was fortunate to work on 3C and ephemeral zones, but the highlight of my experience on Skull & Bones was being appointed the assigned programmer for a newly created fourth mandate: the Narrative team. This cross-disciplinary team aimed to enhance the game's lore in the terrestrial zones. Among lots of small narrative features and improvements, I had the chance to implement a key feature that allows NPCs to react to external stimuli, such as a player passing by, a cannon shot in the nearbye sea, or changes in the weather. I've added many stimulis sources and this system enabled designers to integrate reactions (often barks and/or specific animations) to these stimulis, making the game world more immersive and dynamic. For example, it allowed the NPC guarding the Helm entrance to block the player and tell them to go away if they hadn't unlocked the feature yet, or to welcome them if they had.
 
-![NPC guarding a door]({{ '/' | absolute_url }}/assets/images/projects/snb_helm.png){: width="300" .align-center}
+![NPC guarding a door]({{ '/' | absolute_url }}/assets/images/projects/snb_helm.png){: width="800" .align-center}
+
+## Responsibilities
+
+### Narrative features
+- Stimuli system for land-based NPCs
+- Support for onboarding missions in the Helm 
+- Various narrative systems such as a narrative blackboard to store actions/events of the player and allowing NPC to react about it. (Example "It was a big storm you was in")
+
+### Ephemeral zones
+- Support and improvements of the system
+
+### 3C
+- Small improvements on the player character (on land)
+- Worked on a sliding feature as shortcuts on land (it was cut and replaced by ropes to simplify world building)
+
+And of course debug and optimization ! 
