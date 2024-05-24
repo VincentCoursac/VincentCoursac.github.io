@@ -14,11 +14,11 @@ sidebar:
   - title: "Studio"
     text: "[**Ubisoft Paris**](https://paris.ubisoft.com/fr/)"
   - title: "Date"
-    text: "Oct 2019 - Sept 2020"
+    text: "Oct 2020 - Jul 2022"
   - title: "Technologies"
-    text: "KT Engine (internal engine), C++, SVN, JIRA"
+    text: "Anvil (internal engine), C++, Perforce, JIRA"
   - title: "Platforms"
-    text: "PC - PS5 - Xbox Series"
+    text: "PC - PS5 - Xbox Series - Amazon Luna"
 ---
 
 **Skull & Bones** by Ubisoft is a pirate-themed action-adventure game set in the Indian Ocean, where players take on the role of a pirate captain striving for infamy. The game features naval combat, ship customization, and multiplayer PvP battles, offering an immersive experience of piracy and plunder. Sail through treacherous waters, form alliances, and dominate the seas to become the ultimate pirate legend.

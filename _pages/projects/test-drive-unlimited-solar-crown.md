@@ -14,11 +14,11 @@ sidebar:
   - title: "Studio"
     text: "[**Kylotonn**](https://kylotonn.com/) edited by [**Nacon**](https://www.nacongaming.com/)"
   - title: "Date"
-    text: "Oct 2020 - Jul 2022"
+    text: "Oct 2019 - Sept 2020"
   - title: "Technologies"
-    text: "Anvil (internal engine), C++, Perforce, JIRA"
+    text: "KT Engine (internal engine), C++, SVN, JIRA"
   - title: "Platforms"
-    text: "PC - PS5 - Xbox Series - Amazon Luna"
+    text: "PC - PS5 - Xbox Series"
 ---
 
 **Test Drive Unlimited Solar Crown** by Nacon is the third installment in the Test Drive Unlimited series, set on a 1:1 recreation of Hong Kong Island. The game features high-speed racing, car customization, and a luxurious lifestyle, allowing players to join rival factions and explore a detailed urban environment. It emphasizes freedom, social interactions, and competitive racing in a vibrant cityscape.
