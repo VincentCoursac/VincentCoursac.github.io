@@ -288,3 +288,4 @@ defaults:
     values:
       identifier: "project"
       avatar: false
+      comments: true
