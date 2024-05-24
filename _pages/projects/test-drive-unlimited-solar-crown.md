@@ -49,6 +49,6 @@ Although I initially joined as a gameplay programmer, my knowledge of networks, 
 
 ### Network programming
 - Helping improving and maintaining the network & replication system
-- Developping some network features such as a Backblaze integration (S3 like cloud storage) to store some player data (for example screenshots or race ghosts)
+- Developing some network features such as a Backblaze integration (S3 like cloud storage) to store some player data (for example screenshots or race ghosts)
 
 And of course debug and optimization ! 

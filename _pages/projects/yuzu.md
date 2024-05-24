@@ -12,7 +12,7 @@ sidebar:
   - title: "Role"
     text: "Chief Technical Officer"
   - title: "Date"
-    text: "Aug 2022 - Jan 2024"
+    text: "Aug 2022 - Mar 2024"
   - title: "Technologies"
     text: "Unreal Engine 5, C++, C#, Python, NodeJS, PHP, MongoDB, MySQL, AWS, Perforce, Git, JIRA"
   - title: "Platforms"
@@ -62,3 +62,23 @@ To ensure the scientific validity of our scenarios, we collaborated with 2LPN (L
 ![a test bench]({{ '/' | absolute_url }}/assets/images/projects/yuzu_benchs.webp){: width="800" .align-center}
 <p style = "text-align:center;margin-top:-0.8em;font-style:italic">Jerome Dinet and a and a "cobaye" during one of our test benches</p>
 
+## Responsibilities
+
+Making an exhaustive list of all my responsibilities at Yuzu is going to prove impossible, as being in charge of the company's technical management implies a lot of things. But to give you an idea: 
+
+### Developing our game
+
+#### Gameplay programming and architecture
+- Lorem ipsum
+
+#### Technical level design
+- Lorem ipsum
+
+### Developing our web infrastructure
+- Lorem ipsum
+
+### Developing our cloud solution
+- Lorem ipsum
+
+### Management and leadership
+- Lorem ipsum
