@@ -23,7 +23,7 @@ name                     : "Blogfolio ✨"
 description              : "Game dev blog & portfolio"
 url                      : "https://vincentcoursac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "VincentCoursac/VincentCoursac.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
